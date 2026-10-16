@@ -8,4 +8,4 @@ site:
       path: faq
       default: true
       content:
-        directory: /faq
+        directory: /
