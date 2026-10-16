@@ -43,7 +43,7 @@ Bei den meisten Kursen kannst du für deine Teilnahme eine Teilnahmebescheinigun
 ### **Wann bekomme ich ein Leistungszertifikat/ECTS?**
 
 Dafür führst du zusätzlich zu deiner Teilnahme ein Projekt durch und präsentierst es. Alle Infos dazu findest du unter [Leistungszertifikat & ECTS](https://opencampus.gitbook.io/faq/leistungsnachweise).\
-Die Ausstellung der Leistungszertifikate und die Vergütung von ECTS erfolgt in der Regel ca. einen Monat nach der jeweiligen Abgabefrist (siehe [Termine](#termine)).
+Die Ausstellung der Leistungszertifikate und die Vergütung von ECTS erfolgt in der Regel ca. einen Monat nach der jeweiligen Abgabefrist (siehe [Termine](./#termine)).
 
 ## ECTS & Prüfungsanmeldung
 
