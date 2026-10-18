@@ -2,14 +2,14 @@
 
 Um bei uns ein Leistungszertifikat zu erwerben (für Studierende gleichzeitig die Grundlage für den Erwerb von ECTS), brauchst du:
 
-* eine ausreichende aktive Teilnahme an den Kursterminen (max. 2 Fehltermine) sowie
+* eine ausreichende aktive Teilnahme an den Kursterminen (max. 2 verpasste Pflichttermine) sowie
 * ein erfolgreich durchgeführtes und präsentiertes Projekt.
 
 ### So läuft's ab
 
 1. **Projekt finden (Kurswoche 1–3):** Schlag ein eigenes Projekt vor, tritt dem Projekt anderer Teilnehmender bei oder erstelle dein Projekt auf Basis einer Projektvorlage deiner Kursleitung. → [Projekt anlegen & einreichen](projekte.md)
 2. **Projekt umsetzen und präsentieren (Kursende):** Präsentiere euer Projekt live in der Abschlusssession oder als Video. → [Präsentation & Dokumentation](praesentation-und-dokumentation.md)
-3. **Einreichen (bis zur Abgabefrist):** Lade alle Bestandteile in EduHub hoch und reiche das Projekt zur Bewertung ein. Die Abgabefristen findest du in der [Terminübersicht](https://opencampus.gitbook.io/faq#termine).
+3. **Einreichen (bis zur Abgabefrist):** Lade alle Bestandteile in EduHub hoch und reiche das Projekt zur Bewertung ein. Die Abgabefristen findest du in der [Terminübersicht](../README.md#termine).
 
 Inspiration findest du in unseren [Projektbeispielen](projektbeispiele.md). 🎉
 

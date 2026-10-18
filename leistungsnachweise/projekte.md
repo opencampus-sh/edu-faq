@@ -39,7 +39,7 @@ Die Checkliste mit den nächsten Schritten in deinem Projekt zeigt dir jederzeit
 {% endhint %}
 
 {% hint style="info" %}
-Du kannst pro Kurs nur in **einem** Projekt mitarbeiten. In einigen Kursen sind nur Projektvorlagen der Kursleitung vorgesehen. Falls „Eigenes Projekt vorschlagen“ in deinem Kurs nicht angezeigt wird, hat die Kursleitung Vorschläge deaktiviert – sprich sie bei Fragen direkt an.
+Du kannst pro Kurs nur in **einem** Projekt mitarbeiten. In einigen Kursen sind nur Projektvorlagen der Kursleitung vorgesehen. Falls „Eigenes Projekt vorschlagen“ in deinem Kurs nicht angezeigt wird, sind eigene Vorschläge in diesem Kurs nicht vorgesehen – sprich bei Fragen deine Kursleitung an.
 {% endhint %}
 
 ### **Team**
@@ -53,4 +53,4 @@ Lade alle geforderten Bestandteile (z. B. Projektergebnisse, Projektübersicht, 
 
 ### **Fristen**
 
-* Die Abgabe des Projekts sollte etwa einen Monat nach Kursende erfolgen. Das genaue Datum findest du in der [Terminübersicht](https://opencampus.gitbook.io/faq#termine). Falls du mehr Zeit brauchst, sprich bitte das opencampus-Team dazu an.
+* Die Abgabe des Projekts sollte etwa einen Monat nach Kursende erfolgen. Das genaue Datum findest du in der [Terminübersicht](../README.md#termine). Falls du mehr Zeit brauchst, sprich bitte das opencampus-Team dazu an.
