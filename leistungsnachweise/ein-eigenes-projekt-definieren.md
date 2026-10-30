@@ -1,0 +1,33 @@
+# Ein eigenes Projekt definieren
+
+Bei uns soll ein Leistungsnachweis mehr sein als eine Pflichtabgabe. \
+Du verbindest die Inhalte und Impulse aus deinem Kurs mit einem Thema, das dich wirklich interessiert, zum Beispiel aus deinem Studium, deinem Job, deinem Ehrenamt oder deiner beruflichen Zukunft.
+
+Die Grundidee: Das Projekt soll dich persönlich weiterbringen. Du wendest Gelerntes praktisch an, probierst Neues aus und findest heraus, welche Themen und Tätigkeiten dir liegen. Am Ende hast du ein echtes Ergebnis, das du vielleicht weiterverwenden oder in Bewerbungen zeigen kannst.
+
+### Schritt 1: Bereich wählen
+
+* Studium (Seminar, Hausarbeit, Abschlussarbeit)
+* Job, Nebenjob oder Praktikum &#x20;
+* Verein, Ehrenamt, Hochschulgruppe oder Fachschaft
+* WG, Familie oder Freundeskreis
+* Eigene Idee oder Gründung
+* Beruflicher Kontext (Berufsbereiche, Themenkomplexe, was Unternehmen beschäftigt)
+
+### Schritt 2: Art des Vorhabens wählen
+
+Lass Dich von einem Thema oder Sachverhalt aus Deinem Kurs inspirieren. Das kann etwas Inhaltliches sein oder etwas aus dem Kontext eines beteiligten Unternehmens, über das eine Referentin oder ein Referent berichtet hat. Folgende Beispiele können dir helfen:
+
+<table data-header-hidden data-first-column-sticky data-search="false"><thead><tr><th width="144.64453125" valign="top"></th><th valign="top"></th><th valign="top"></th><th valign="top"></th></tr></thead><tbody><tr><td valign="top"><strong>Art</strong></td><td valign="top"><strong>Frag Dich für Deinen Bereich</strong></td><td valign="top"><strong>Impuls aus dem Kurs</strong></td><td valign="top"><strong>Ergebnis z. B.</strong></td></tr><tr><td valign="top"><strong>Verbessern</strong></td><td valign="top">Was läuft dort schlecht, umständlich oder chaotisch?</td><td valign="top">Welche Herausforde-rung wurde geschildert – und wie würdest Du sie lösen?</td><td valign="top">Neuer Ablauf, Konzept mit Vorher-nachher</td></tr><tr><td valign="top"><strong>Planen</strong></td><td valign="top">Was steht dort in den nächsten Monaten an?</td><td valign="top">Wie würdest Du an das Thema heran-gehen und es umsetzen?</td><td valign="top">Projektplan, Zeitplan, Budget</td></tr><tr><td valign="top"><strong>Erstellen</strong></td><td valign="top">Was fehlt dort, das ich bauen, schreiben oder gestalten könnte?</td><td valign="top">Welche Gegenposition oder Kritik gibt es zum Vorgestellten?</td><td valign="top">Kampagne, Prototyp, Website, Beitrag</td></tr><tr><td valign="top"><strong>Ausprobieren</strong></td><td valign="top">Welche Methode aus dem Kurs könnte ich dort drei bis vier Wochen testen?</td><td valign="top">Welche Methode oder welches Werkzeug könnte bei einer geschilderten Heraus-forderung helfen?</td><td valign="top">Testprotokoll mit Ergebnis</td></tr><tr><td valign="top"><strong>Erkunden</strong></td><td valign="top">Was müsste ich wissen, um eine Entscheidung zu treffen?</td><td valign="top">Mit wem könntest Du sprechen, um eine zweite Perspektive kennenzulernen?</td><td valign="top">Interviews, Entscheidungsgrundlage</td></tr><tr><td valign="top"><strong>Lernen</strong></td><td valign="top">Welche Fähigkeit bräuchte ich dort?</td><td valign="top">Worüber würdest Du gern mehr wissen, als im Termin Zeit war?</td><td valign="top">Angewendetes Tool, Arbeitsprobe</td></tr></tbody></table>
+
+### Schritt 3: Vorhaben formulieren
+
+Fasse Bereich, Art und Impuls in einem Satz zusammen und reiche ihn über \[Link] ein:
+
+\| _„Bis Kursende möchte ich herausfinden / erreichen / lernen, …“_
+
+{% hint style="info" %}
+Bei den eigenen Projekten wird eine Dokumentation des Zeitaufwands verlangt. Führe diese von Anfang an durch. Welche Inhalte sonst noch relevant sind, kannst du dir in der [Dokumentationsvorlage](https://storage.googleapis.com/eduhub-production/project-docs-instructions/public/instruction-23/Dokumentationsvorlage_Eigenes_Projekt_ausfuellbar.pdf) schon mal ansehen.
+{% endhint %}
+
+Alles bereit? Hier kannst du nachlesen, wie du dein Vorhaben einreichst → [Projekt anlegen & einreichen](projekte.md)&#x20;

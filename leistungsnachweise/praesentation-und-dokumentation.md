@@ -2,25 +2,44 @@
 
 Jedes Projekt wird präsentiert, wahlweise
 
-* **live** in einer eigenen Abschlusssession am Ende des Kurses **oder**
-* als **aufgezeichnetes Video** (ca. 5–10 Minuten). Das Video reichst du als **Link** ein, nicht als Datei – lade es z. B. auf YouTube („nicht gelistet“) oder in eine Cloud mit Freigabe „jeder mit dem Link“ hoch. Der Link muss mindestens bis zur Bewertung erreichbar bleiben.
+* **live** in einer eigenen Abschlusssession am Ende des Kurses (Zeitvorgabe durch Kursleitung) **oder**
+* als **aufgezeichnetes Video** (5 Minuten). \
+  Das Video reichst du als **Link** ein, nicht als Datei – z. B. über YouTube (Sichtbarkeit „nicht gelistet“), Vimeo, Loom oder einen Freigabelink aus Google Drive, OneDrive oder Nextcloud.\
+  Das Video muss ohne Anmeldung abrufbar sein.
 
-Die Präsentation bzw. das Video sollte auf folgende Punkte eingehen: Ausgangslage und Projektziel, Vorgehen, Ergebnisse sowie Fazit und Ausblick.
+### Vom Projekt zur Präsentation
 
-Was du genau einreichen musst, steht in der **Dokumentationsanleitung** (PDF), die du herunterladen kannst, sobald dein Projekt in EduHub bestätigt ist. Je nach Kurs wird sie von der Kursleitung oder vom opencampus-Team erstellt – in der Anleitung steht auch, wer dir bei Fragen weiterhilft.
+Die Präsentation bzw. das Video sollte auf folgende Punkte eingehen:&#x20;
 
-### Typische Bestandteile
+1. Ausgangspunkt: Was war Dein Vorhaben und warum war es Dir wichtig?
+2. Vorgehen: Was hast Du gemacht, und welche Impulse aus dem Kurs hast Du ggf. genutzt?
+3. Ergebnis: Was ist herausgekommen? Zeig es so konkret wie möglich.
+4. Erkenntnis: Was hast Du gelernt, und was machst Du als Nächstes?
 
-Typischerweise gehören dazu:
-
-1. **Die Projektergebnisse**, also die konkreten „Produkte“ aus deinem Projekt, z. B. Social-Media-Posts oder -Videos, ein Kampagnenplan, eine App, ein Prototyp oder ein Repository.
-2. **Eine kurze Projektübersicht** mit:
-   * **Wer hat was gemacht?** – ein paar Sätze pro Person
-   * **Welche Tools wurden wofür eingesetzt?** – z. B. „ChatGPT für erste Textentwürfe, Canva für die Grafiken, Figma für den Prototyp“
-3. Der **Link zum Video** (wenn ihr nicht live präsentiert) und ggf. die **Präsentationsfolien**.
+Was du genau einreichen musst, steht in der Dokumentationsanleitung (PDF), die du herunterladen kannst, sobald dein Projekt in EduHub bestätigt ist. Je nach Kurs wird sie von der Kursleitung oder vom opencampus-Team erstellt – in der Anleitung steht auch, wer dir bei Fragen weiterhilft.
 
 {% hint style="info" %}
 KI-Tools darfst und sollst du nutzen – wichtig ist, dass du transparent machst, wofür.
+{% endhint %}
+
+### Tipps für gute Folien
+
+* **Eine Aussage pro Folie**\
+  Formuliere die Überschrift als Kernaussage, z. B. „Mit Kanban treffen wir Entscheidungen schneller“ statt „Ergebnisse“.
+* **Zeigen statt beschreiben**\
+  Ein Bild, eine Grafik oder ein Screenshot sagt mehr als eine Aufzählung.
+* **Wenig Text**\
+  Was Du sagst, muss nicht auf der Folie stehen.
+* **Ehrlich sein**\
+  Wenn etwas nicht wie geplant lief, gehört das auf Folien zu “Lernen”. Gerade daraus lernt man oft am meisten.
+
+### Wenn Du ein Video aufnimmst
+
+* Nutze dieselben Folien und nimm Deinen Bildschirm mit Ton auf, z. B. mit Loom, Zoom oder PowerPoint.
+* Halte Dich an die 5 Minuten und übe einmal mit Stoppuhr.
+
+{% hint style="danger" %}
+Prüfe vor dem Einreichen, ob Dein Link zum Video ohne Anmeldung funktioniert.
 {% endhint %}
 
 Wie du alles hochlädst und einreichst, steht unter [Projekt anlegen & einreichen](projekte.md#projektabgabe).
