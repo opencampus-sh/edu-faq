@@ -12,7 +12,7 @@ Um bei uns ein Leistungszertifikat zu erwerben (für Studierende gleichzeitig di
    * **EIN KURSINTERNES PROJEKT**\
      Wird durch die Kursleitung vorgegeben oder vorgeschlagen. Sie bestimmt in dem Fall die Formalitäten zur Ausarbeitung. Nicht jeder Kurs bietet diese Art Projekttyp.
    * **EIN FREIES, EIGENES PROJEKT**\
-     Wird von dir selbst wählst. Reiche deinen Vorschlag ein oder tritt einem anderen Projekt bei und beginne damit direkt nach der Freigabe. \
+     Wird von dir selbst gewählt. Reiche deinen Vorschlag ein oder tritt einem anderen Projekt bei und beginne damit direkt nach der Freigabe. \
      Du brauchst Inspiration, was dein eigenes Projekt sein kann? → [Ein eigenes Projekt definieren](1.-ein-eigenes-projekt-definieren.md)
 2. **Projekt(mit)arbeit beantragen**\
    Schlag ein eigenes Projekt vor, tritt dem Projekt anderer Teilnehmender bei oder erstelle dein Projekt auf Basis einer Projektvorlage deiner Kursleitung. → [Projekt anlegen & einreichen](projekte.md)

@@ -1,8 +1,6 @@
----
-description: Herzlich willkommen – schön, dass du unser FAQ besuchst! 👋
----
-
 # FAQ
+
+Herzlich willkommen – schön, dass du unser FAQ besuchst! 👋
 
 Im Folgenden finden du die Antworten auf hoffentlich alle wichtigsten Fragen rund um
 
