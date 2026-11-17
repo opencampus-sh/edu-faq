@@ -1,8 +1,8 @@
-# Projekt anlegen & einreichen
+# 2. Projekt anlegen & einreichen
 
 Hier erfährst du, wie du dein Projekt in EduHub anlegst und einreichst.&#x20;
 
-Wie du auf ein eigenes Projekt kommst, steht unter [Ein eigenes Projekt definieren](ein-eigenes-projekt-definieren.md)\
+Wie du auf ein eigenes Projekt kommst, steht unter [Ein eigenes Projekt definieren](1.-ein-eigenes-projekt-definieren.md)\
 Wie die Präsentation und die Dokumentation aussehen, steht unter [Präsentation & Dokumentation](praesentation-und-dokumentation.md).
 
 Falls du Fragen zur Durchführung von Projekten hast, kannst du diese jederzeit gerne über den Q\&A-Channel im Element-Chat von opencampus.sh stellen.
@@ -69,3 +69,4 @@ Lade alle geforderten Bestandteile (z. B. Projektergebnisse, Projektübersicht, 
 ### **Fristen**
 
 Die Abgabe des Projekts sollte etwa einen Monat nach Kursende erfolgen. Das genaue Datum findest du in der [Terminübersicht](../#termine). Falls du mehr Zeit brauchst, sprich bitte das opencampus-Team dazu an.
+
