@@ -2,7 +2,7 @@
 
 Herzlich willkommen – schön, dass du unser FAQ besuchst! 👋
 
-Im Folgenden finden du die Antworten auf hoffentlich alle wichtigsten Fragen rund um
+Im Folgenden finden du die Antworten auf wichtige Fragen rund um
 
 * [Termine](readme/termine.md)
 * [Anmeldung und Kosten](readme/anmeldung-and-kosten.md)
@@ -12,4 +12,4 @@ Im Folgenden finden du die Antworten auf hoffentlich alle wichtigsten Fragen run
 
 
 
-Außerdem in einem weiteren Block alles rund um das Thema [Leistungszertifikat und ECTS](leistungsnachweise/)
+Außerdem gibt es eine Übersicht rund um das Thema [Leistungszertifikat und ECTS](leistungsnachweise/)

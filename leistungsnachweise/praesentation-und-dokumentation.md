@@ -1,4 +1,4 @@
-# Präsentation & Dokumentation
+# 3. Präsentation & Dokumentation
 
 Jedes Projekt wird präsentiert, wahlweise
 
@@ -17,6 +17,8 @@ Die Präsentation bzw. das Video sollte auf folgende Punkte eingehen:&#x20;
 4. Erkenntnis: Was hast Du gelernt, und was machst Du als Nächstes?
 
 Was du genau einreichen musst, steht in der Dokumentationsanleitung (PDF), die du herunterladen kannst, sobald dein Projekt in EduHub bestätigt ist. Je nach Kurs wird sie von der Kursleitung oder vom opencampus-Team erstellt – in der Anleitung steht auch, wer dir bei Fragen weiterhilft.
+
+Was bei [freien, eigenen Projekten](./#in-unseren-kursen-gibt-es-2-arten-von-projekte) zur Dokumentation gefordert ist, steht in dieser [Dokumentationsanleitung](https://storage.googleapis.com/eduhub-production/project-docs-instructions/public/instruction-23/Dokumentationsvorlage_Eigenes_Projekt_ausfuellbar.pdf).&#x20;
 
 {% hint style="info" %}
 KI-Tools darfst und sollst du nutzen – wichtig ist, dass du transparent machst, wofür.
@@ -43,3 +45,4 @@ Prüfe vor dem Einreichen, ob Dein Link zum Video ohne Anmeldung funktioniert.
 {% endhint %}
 
 Wie du alles hochlädst und einreichst, steht unter [Projekt anlegen & einreichen](projekte.md#projektabgabe).
+

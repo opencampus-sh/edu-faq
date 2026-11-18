@@ -7,18 +7,24 @@ Um bei uns ein Leistungszertifikat zu erwerben (für Studierende gleichzeitig di
 
 ### So läuft's ab
 
-1. **Projekt finden/definieren:**\
-   In unseren Kursen gibt es **2 Arten von Projekte**:
-   * **EIN KURSINTERNES PROJEKT**\
-     Wird durch die Kursleitung vorgegeben oder vorgeschlagen. Sie bestimmt in dem Fall die Formalitäten zur Ausarbeitung. Nicht jeder Kurs bietet diese Art Projekttyp.
-   * **EIN FREIES, EIGENES PROJEKT**\
-     Wird von dir selbst gewählt. Reiche deinen Vorschlag ein oder tritt einem anderen Projekt bei und beginne damit direkt nach der Freigabe. \
-     Du brauchst Inspiration, was dein eigenes Projekt sein kann? → [Ein eigenes Projekt definieren](1.-ein-eigenes-projekt-definieren.md)
-2. **Projekt(mit)arbeit beantragen**\
-   Schlag ein eigenes Projekt vor, tritt dem Projekt anderer Teilnehmender bei oder erstelle dein Projekt auf Basis einer Projektvorlage deiner Kursleitung. → [Projekt anlegen & einreichen](projekte.md)
-3. **Projekt umsetzen und präsentieren**\
+### &#x20;In unseren Kursen gibt es **2 Arten von Projekte**:
+
+* **EIN KURSINTERNES PROJEKT**\
+  Wird durch die Kursleitung vorgegeben oder vorgeschlagen. Sie bestimmt in dem Fall die Formalitäten zur Ausarbeitung. Nicht jeder Kurs bietet diese Art Projekttyp.
+* **EIN FREIES, EIGENES PROJEKT**\
+  Wird von dir selbst gewählt. Reiche deinen Vorschlag ein oder tritt einem anderen Projekt bei und beginne damit direkt nach der Freigabe. \
+  Du brauchst Inspiration, was dein eigenes Projekt sein kann? → [Ein eigenes Projekt definieren](1.-ein-eigenes-projekt-definieren.md)
+
+
+
+1. **Projekt finden/definieren**\
+   Je nach Kurstyp (s.o.) wählst du zunächst das passende Projekt
+2.  **Anlegen & einreichen**
+
+    In der Übersicht bei deinem Kurs kannst du ein eigenes Projekt vorschlagen, dem Projekt anderer Teilnehmenden beitreten oder dein Projekt auf Basis einer Projektvorlage deiner Kursleitung erstellen. → [Projekt anlegen & einreichen](projekte.md)
+3. **Projekt umsetzen, präsentieren und dokumentieren**\
    Präsentiere das Projekt live in der Abschlusssession im Kurs oder als Video. → [Präsentation & Dokumentation](praesentation-und-dokumentation.md)
-4. **Einreichen (bis zur Abgabefrist)**\
+4. **Abgabe** \
    Lade alle Bestandteile in EduHub hoch und reiche das Projekt zur Bewertung ein. Die Abgabefristen findest du in der [Terminübersicht](../#termine).
 
 Weitere Inspirationen findest du in unseren [Projektbeispielen](projektbeispiele.md). 🎉
